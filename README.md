@@ -2,7 +2,7 @@
 
 🚀 **Frontend Developer | JavaScript | React | Typescript | Next.js**  
 
-I'm a passionate **Frontend Developer** with **6+ years of experience** building web applications focused on **usability, performance, and scalability**. I love crafting smooth user experiences and optimizing web performance.  
+I'm a passionate **Frontend Developer** building web applications focused on **usability, performance, and scalability**. I love crafting smooth user experiences and optimizing web performance.  
 
 ---
 
