@@ -6,6 +6,22 @@ I'm a passionate **Frontend Developer** building web applications focused on **u
 
 ---
 
+## 📩 How to Reach Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lizethpatino/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/LizethPatino">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:lizethpatinom@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
 ## 🛠️ Tech Stack  
 
 ### Frontend:      
@@ -34,9 +50,6 @@ I'm a passionate **Frontend Developer** building web applications focused on **u
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
-### Development & Collaboration:    
-🤝 Pair Programming | 🔎 Code Reviews | 👩‍🏫 Mentoring | 🎯 Technical Decision-Making  
-
 ### Languages:    
 **En**  English (Certified C1 - Advanced by LSI London) – Always learning and improving 🐱    
 **Es**  Spanish (Native)    
@@ -56,12 +69,6 @@ I'm a passionate **Frontend Developer** building web applications focused on **u
 🚀 Planned deployment on **Vercel**  
 
 ---
-
-## 📫 Let's Connect!  
-
-💼 [LinkedIn](https://www.linkedin.com/in/lizethpatino/)  
-🐙 [GitHub](https://github.com/LizethPatino)  
-✉️ [Email](mailto:lizethpatinom@gmail.com)  
 
 🚀 Always learning, building, and improving!  
 ## Hi there 👋
