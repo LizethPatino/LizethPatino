@@ -53,8 +53,8 @@ I'm a passionate **Frontend Developer** building web applications focused on **u
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
 ### Languages:    
-**En**  English (Certified C1 - Advanced by LSI London) – Always learning and improving 🐱    
-**Es**  Spanish (Native)    
+🇬🇧  **En**  English (Certified C1 - Advanced by LSI London) – Always learning and improving 🐱    
+🇨🇴  **Es**  Spanish (Native)    
 
 ---
 
