@@ -24,7 +24,7 @@ I'm a passionate **Frontend Developer** with **6+ years of experience** building
 🤝 Pair Programming | 🔎 Code Reviews | 👩‍🏫 Mentoring | 🎯 Technical Decision-Making  
 
 **Languages:**  
-🇬🇧 English (Certified C1 - Advanced)  
+🇬🇧 English (Certified C1 - Advanced) – Always learning and improving 🐱
 🇪🇸 Spanish (Native)  
 
 ---
