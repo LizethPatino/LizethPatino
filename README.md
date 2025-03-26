@@ -68,8 +68,8 @@ I'm a passionate **Frontend Developer** with **6+ years of experience** building
 ## Hi there 👋
 
 ⭐ **Special thanks to:**    
-Icons provided by [Simple Icons](https://simpleicons.org/)  
-Shields generated using [Shields.io](https://shields.io/)
+  Icons provided by [Simple Icons](https://simpleicons.org/)  
+  Shields generated using [Shields.io](https://shields.io/)
 
 <!--
 **LizethPatino/LizethPatino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
