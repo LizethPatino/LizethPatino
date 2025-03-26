@@ -35,10 +35,10 @@ I'm a passionate **Frontend Developer** with **6+ years of experience** building
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
-**Development & Collaboration:**  
+### Development & Collaboration:    
 🤝 Pair Programming | 🔎 Code Reviews | 👩‍🏫 Mentoring | 🎯 Technical Decision-Making  
 
-**Languages:**  
+### Languages:    
 **En**  English (Certified C1 - Advanced by LSI London) – Always learning and improving 🐱    
 **Es**  Spanish (Native)    
 
@@ -67,7 +67,7 @@ I'm a passionate **Frontend Developer** with **6+ years of experience** building
 🚀 Always learning, building, and improving!  
 ## Hi there 👋
 
-Special thanks to:  
+⭐ **Special thanks to:**    
 Icons provided by [Simple Icons](https://simpleicons.org/)  
 Shields generated using [Shields.io](https://shields.io/)
 
