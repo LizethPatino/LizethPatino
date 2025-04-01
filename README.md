@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Lizeth!  
+# 👋 Hi, I'm Liz!  
 
-🚀 **Frontend Developer | JavaScript | React | Typescript | Next.js**  
-
-I'm a passionate **Frontend Developer** building web applications focused on **usability, performance, and scalability**. I love crafting smooth user experiences and optimizing web performance.  
+## 💡 About Me  
+✨ I love crafting user-friendly and high-performance web applications.  
+✨ Passionate about **UX/UI** and creating seamless user experiences.  
+✨ Always learning and exploring new technologies.  
 
 ---
 
@@ -32,29 +33,15 @@ I'm a passionate **Frontend Developer** building web applications focused on **u
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 ### Backend & APIs:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
-### State Management:
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logo=react&logoColor=white)
-![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### Testing & Monitoring:
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/RTL-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-
 ### Languages:    
-<img src="https://flagcdn.com/w40/gb.png" width="20"/> **English (Certified C1 - Advanced by LSI London)** – Always learning and improving 🐱  
-<img src="https://flagcdn.com/w40/co.png" width="20"/> **Spanish (Native)**  
+<img src="https://flagcdn.com/w40/gb.png" width="20"/> **English** 🐱  
+<img src="https://flagcdn.com/w40/co.png" width="20"/> **Spanish**  
 
 ---
 
