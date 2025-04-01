@@ -39,6 +39,9 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
+### Database:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### Languages:    
 <img src="https://flagcdn.com/w40/gb.png" width="20"/> **English** 🐱  
 <img src="https://flagcdn.com/w40/co.png" width="20"/> **Spanish**  
