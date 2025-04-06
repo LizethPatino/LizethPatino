@@ -46,7 +46,9 @@
 
 ## 📌 Currently Working On  
 
-🌟 **[Gallery App](https://github.com/LizethPatino/gallery-next) – A modern image gallery using Next.js Next-Auth & Unsplash API**  
+🌟 **[Gallery App](https://github.com/LizethPatino/gallery-next)**  – A modern image gallery using Next.js Next-Auth & Unsplash API
+
+
 ---
 
 🚀 Always learning, building, and improving!  
