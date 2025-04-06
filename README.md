@@ -46,16 +46,7 @@
 
 ## 📌 Currently Working On  
 
-🌟 **[Gallery App](https://github.com/LizethPatino/gallery-next) – A modern image gallery using Next.js & Unsplash API**  
-
-✅ Integrated Unsplash API  
-✅ Sorting by likes & recent photos  
-✅ Pagination & responsive design  
-✅ Image search functionality  
-🔄 WIP: Authentication system  
-🆕 Coming soon: Favorite images section & unit tests  
-🚀 Planned deployment on **Vercel**  
-
+🌟 **[Gallery App](https://github.com/LizethPatino/gallery-next) – A modern image gallery using Next.js Next-Auth & Unsplash API**  
 ---
 
 🚀 Always learning, building, and improving!  
