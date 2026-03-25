@@ -5,7 +5,7 @@
 ✨ Passionate about **UX/UI** and creating seamless user experiences.  
 ✨ Always learning and exploring new technologies.  
 
-🧠 Current Interests
+## 🧠 Current Interests
 
 ✨ Exploring the behavior and limitations of AI systems (LLMs)
 ✨ Interested in questions around AI cognition and emergent behavior
