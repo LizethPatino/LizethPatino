@@ -7,10 +7,10 @@
 
 ## 🧠 Current Interests
 
-✨ Exploring the behavior and limitations of AI systems (LLMs)
-✨ Interested in questions around AI cognition and emergent behavior
-✨ Curious about the societal and ethical implications of advanced AI
-✨ Transitioning toward more interdisciplinary work combining software engineering and AI research
+✨ Exploring the behavior and limitations of AI systems (LLMs)  
+✨ Interested in questions around AI cognition and emergent behavior  
+✨ Curious about the societal and ethical implications of advanced AI  
+✨ Transitioning toward more interdisciplinary work combining software engineering and AI research  
 
 ---
 
