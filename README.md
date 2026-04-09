@@ -28,7 +28,7 @@
 | **Frontend** | React, Next.js, TypeScript, TailwindCSS, Zustand |
 | **Backend & APIs** | Node.js, Prisma, Next-Auth |
 | **Database** | PostgreSQL (Neon), MongoDB |
-| **Languages** | English (B2), Spanish (Native) |
+| **Languages** | English (B2), Spanish (Native) | Japanese (N5)
 
 ### 📌 Currently Working On
 * 🌟 **[Gallery App](https://github.com/LizethPatino/gallery-next)** – A modern image gallery built with Next.js, Next-Auth & Unsplash API.
@@ -37,7 +37,3 @@
 
 ### 📩 How to Reach Me
 [LinkedIn](https://www.linkedin.com/in/lizeth-patino/) | [Email](mailto:tu-email@gmail.com)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizethPatino&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-</p>
