@@ -11,7 +11,7 @@ I'm a Frontend Engineer with 6+ years of experience who builds things that feel 
 
 My work lives where technology meets emotion — I design and code interfaces for AI products that put people in control, not the algorithm. I believe the best AI experiences are the ones where the human still has the last word.
 
-I'm also an illustrator ([@pixybong](https://instagram.com/pixybong)) — which means I think about interfaces the way I think about drawings: every decision carries feeling.
+I'm also an illustrator ([@pixybong](https://instagram.com/pixy.bong)) — which means I think about interfaces the way I think about drawings: every decision carries feeling.
 
 Currently based in Bogotá, Colombia 🇨🇴
 
