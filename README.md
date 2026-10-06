@@ -13,7 +13,7 @@ My work lives where technology meets emotion — I design and code interfaces fo
 
 I'm also an illustrator ([@pixybong](https://instagram.com/pixy.bong)) — which means I think about interfaces the way I think about drawings: every decision carries feeling.
 
-Currently based in London, Uk 🇬🇧
+Currently based in London, UK 🇬🇧
 
 ---
 
